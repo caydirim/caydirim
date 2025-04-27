@@ -1,5 +1,5 @@
 # 💫 About Me:
-A passionate frontend developer from İstanbul<br>🔭 I’m currently working on JavaScript, React
+A passionate frontend developer from İstanbul<br>🔭 I’m currently working on JavaScript, PostgreSQL
 
 
 ## 🌐 Socials:
